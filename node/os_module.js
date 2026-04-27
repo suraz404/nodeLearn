@@ -13,5 +13,4 @@ console.log("Network Interference", os.networkInterfaces());
 console.log("Cpu info", os.cpus);
 console.log("Temporary directory", os.tmpdir());
 
-console.log("OS???? Mac honih ", os.type());
-console.log("OS???? Mac honih ", os.type());
+
