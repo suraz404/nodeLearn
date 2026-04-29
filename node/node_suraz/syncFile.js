@@ -15,3 +15,5 @@ fs.appendFileSync(filePath, "This is updated path");
 fs.renameSync(filePath, newPath);
 
 fs.unlinkSync(); //this is how we are going to delete
+fs.unlinkSync(); //this is how we are going to delete
+fs.unlinkSync(); //this is how we are going to delete
