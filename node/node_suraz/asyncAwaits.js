@@ -14,5 +14,6 @@ const writeFile = async () => {
 writeFile();
 
 writeFile();
+writeFile();
 
 // same yesari nai aru sabai
